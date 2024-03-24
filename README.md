@@ -14,7 +14,7 @@
 * 서버 - Apache Tomcat 9.0<br>
 * 프레임워크/라이브러리 - JSTL, JDBC Template<br>
 * 데이터베이스 - MySQL, Oracle Cloud<br>
-* 프론트엔드 - html, css, javascript, jQuery, ajax, Bootstarp4, jsp<br>
+* 프론트엔드 - html, css, javascript, jQuery, ajax, Bootstrap4, jsp<br>
 * 개발도구 - Eclipse<br>
 
 ## 담당 기능
